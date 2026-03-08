@@ -4,9 +4,10 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"season-studio/go-utils/misc"
 	"strings"
 	"sync"
+
+	"github.com/season-studio/go-utils/misc"
 
 	"golang.org/x/term"
 )

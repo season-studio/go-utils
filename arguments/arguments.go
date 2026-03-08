@@ -4,9 +4,10 @@ import (
 	"fmt"
 	"os"
 	"reflect"
-	"season-studio/go-utils/misc"
 	"strings"
 	"sync"
+
+	"github.com/season-studio/go-utils/misc"
 )
 
 type ArgumentEntry struct {

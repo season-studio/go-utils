@@ -5,9 +5,10 @@ import (
 	"io"
 	"os"
 	"runtime"
-	"season-studio/go-utils/ioex"
 	"sync"
 	"time"
+
+	"github.com/season-studio/go-utils/ioex"
 )
 
 type LogLevel byte

@@ -3,8 +3,9 @@ package config
 import (
 	"fmt"
 	"os"
-	"season-studio/go-utils/log"
 	"sync"
+
+	"github.com/season-studio/go-utils/log"
 
 	"gopkg.in/yaml.v3"
 )
