@@ -1,4 +1,4 @@
-module season-studio/go-utils
+module github.com/season-studio/go-utils
 
 go 1.25.1
 
